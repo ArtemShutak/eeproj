@@ -1,4 +1,4 @@
-<project xmlns:ivy="antlib:org.apache.ivy.ant" name="devclub-simple-java" default="fetch-jars">
+<project xmlns:ivy="antlib:org.apache.ivy.ant" name="eeproj" default="fetch-jars">
 
     <property name="ivy.version" value="2.2.0"/>
 
